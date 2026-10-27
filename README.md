@@ -1,7 +1,7 @@
 # Robust reversible image watermarking based on the zeros distribution of 
 orthogonal moments 
 
-The implementation uses Jacobi–Fourier moments (JFM) for robust watermark embedding, image-adaptive kernel parameter selection, and dynamic error compensation. It includes watermark extraction and robustness evaluation under representative image attacks.
+The implementation uses Jacobi–Fourier moments (JFM) for robust watermark embedding, image-adaptive kernel parameter selection, and dynamic error compensation. 
 
 ## Files
 
