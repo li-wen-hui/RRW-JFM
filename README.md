@@ -21,6 +21,6 @@ With `alpha = 1`, they compute the JFM configuration used in this repository.
 
 ## Citation
 
-X. Chai et al., "Robust reversible image watermarking based on the zeros distribution of orthogonal moments," *Signal Processing*, 252 (2027), 110947.
+Xiuli Chai, Wenhui Li, Yajing Zhang, Huiqun Zou, Yang Lu, and Zhihua Gan, "Robust reversible image watermarking based on the zeros distribution of orthogonal moments," Signal Processing, vol. 252, Art. no. 110947, 2027. https://doi.org/10.1016/j.sigpro.2026.110947
 
 [Publication](https://www.sciencedirect.com/science/article/pii/S0165168426004603)
